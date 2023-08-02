@@ -1,0 +1,206 @@
+[
+    {
+      "abbr": "AP",
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "lat": "16.506174",
+      "long": "80.648015"
+    },
+    {
+      "abbr": "AR",
+      "name": "Arunachal Pradesh",
+      "capital": "Itanagar",
+      "lat": "27.084386",
+      "long": "93.605128"
+    },
+    {
+      "abbr": "AS",
+      "name": "Assam",
+      "capital": "Dispur",
+      "lat": "26.143276",
+      "long": "91.789789"
+    },
+    {
+      "abbr": "BR",
+      "name": "Bihar",
+      "capital": "Patna",
+      "lat": "25.611238",
+      "long": "85.144939"
+    },
+    {
+      "abbr": "CG",
+      "name": "Chhattisgarh",
+      "capital": "Raipur",
+      "lat": "21.250000",
+      "long": "81.629997"
+    },
+    {
+      "abbr": "GA",
+      "name": "Goa",
+      "capital": "Panaji",
+      "lat": "15.491997",
+      "long": "73.818001"
+    },
+    {
+      "abbr": "GJ",
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "lat": "23.215635",
+      "long": "72.636940"
+    },
+    {
+      "abbr": "HR",
+      "name": "Haryana",
+      "capital": "Chandigarh",
+      "lat": "30.733315",
+      "long": "76.779418"
+    },
+    {
+      "abbr": "HP",
+      "name": "Himachal Pradesh",
+      "capital": "Shimla",
+      "lat": "31.104814",
+      "long": "77.173403"
+    },
+    {
+      "abbr": "JK",
+      "name": "Jammu and Kashmir",
+      "capital": "Srinagar (Summer), Jammu (Winter)",
+      "lat": "33.778175",
+      "long": "76.576171"
+    },
+    {
+      "abbr": "JH",
+      "name": "Jharkhand",
+      "capital": "Ranchi",
+      "lat": "23.344100",
+      "long": "85.309562"
+    },
+    {
+      "abbr": "KA",
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "lat": "12.971599",
+      "long": "77.594566"
+    },
+    {
+      "abbr": "KL",
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "lat": "8.524139",
+      "long": "76.936638"
+    },
+    {
+      "abbr": "MP",
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "lat": "23.259933",
+      "long": "77.412615"
+    },
+    {
+      "abbr": "MH",
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "lat": "19.076090",
+      "long": "72.877426"
+    },
+    {
+      "abbr": "MN",
+      "name": "Manipur",
+      "capital": "Imphal",
+      "lat": "24.663717",
+      "long": "93.906269"
+    },
+    {
+      "abbr": "ML",
+      "name": "Meghalaya",
+      "capital": "Shillong",
+      "lat": "25.578773",
+      "long": "91.893254"
+    },
+    {
+      "abbr": "MZ",
+      "name": "Mizoram",
+      "capital": "Aizawl",
+      "lat": "23.727106",
+      "long": "92.717638"
+    },
+    {
+      "abbr": "NL",
+      "name": "Nagaland",
+      "capital": "Kohima",
+      "lat": "25.675140",
+      "long": "94.110988"
+    },
+    {
+      "abbr": "OD",
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "lat": "20.296059",
+      "long": "85.824540"
+    },
+    {
+      "abbr": "PB",
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "lat": "30.733315",
+      "long": "76.779418"
+    },
+    {
+      "abbr": "RJ",
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "lat": "26.912434",
+      "long": "75.787271"
+    },
+    {
+      "abbr": "SK",
+      "name": "Sikkim",
+      "capital": "Gangtok",
+      "lat": "27.338936",
+      "long": "88.606504"
+    },
+    {
+      "abbr": "TN",
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "lat": "13.082680",
+      "long": "80.270721"
+    },
+    {
+      "abbr": "TS",
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "lat": "17.385044",
+      "long": "78.486671"
+    },
+    {
+      "abbr": "TR",
+      "name": "Tripura",
+      "capital": "Agartala",
+      "lat": "23.831457",
+      "long": "91.286777"
+    },
+    {
+      "abbr": "UK",
+      "name": "Uttarakhand",
+      "capital": "Dehradun",
+      "lat": "30.316495",
+      "long": "78.032192"
+    },
+    {
+      "abbr": "UP",
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "lat": "26.846708",
+      "long": "80.946159"
+    },
+    {
+      "abbr": "WB",
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "lat": "22.572646",
+      "long": "88.363895"
+    }
+  ]
+  
